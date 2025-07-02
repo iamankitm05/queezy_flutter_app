@@ -4,6 +4,8 @@ abstract final class AppImages {
   static const surfacePng = 'assets/surface.png';
   static const surfaceDesignPng = 'assets/surface_design.png';
 
+  static const statisticPng = 'assets/static.png';
+
   static const avatar1Png = 'assets/avatars/1.png';
   static const avatar2Png = 'assets/avatars/2.png';
   static const avatar3Png = 'assets/avatars/3.png';
