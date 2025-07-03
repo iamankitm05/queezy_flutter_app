@@ -10,5 +10,6 @@ abstract final class AppColors {
   static const maroon = Color(0xff660012);
   static const white = Colors.white;
   static const black = Colors.black;
+  static const grey = Colors.grey;
   static const transparent = Colors.transparent;
 }
